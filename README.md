@@ -2,4 +2,4 @@
 
 Listed detailed steps here:
 
-https://medium.com/towards-aws/spring-boot-app-on-eks-from-scratch-8c173737f1a
+https://vin0d.medium.com/python-app-on-eks-from-scratch-to-hosting-af040f8dacf0
